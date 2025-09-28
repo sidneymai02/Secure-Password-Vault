@@ -6,7 +6,7 @@
 
 Password Vault is a **secure and practical password manager** built in C++ for desktop environments. It allows users to **store, manage, and audit credentials** for multiple sites. All passwords are **encrypted using industry-standard AES encryption** and saved in a **JSON-formatted vault file**.  
 
-This project demonstrates **strong C++ programming skills**, integration with **OpenSSL for encryption**, **JSON storage**, and a **user-friendly console interface**—making it perfect for showing recruiters and hiring managers in software engineering or cybersecurity portfolios.  
+This project demonstrates **strong C++ programming skills**, integration with **OpenSSL for encryption**, **JSON storage**, and a **user-friendly console interface**.
 
 
 ## Features
